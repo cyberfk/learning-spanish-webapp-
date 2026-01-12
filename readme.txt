@@ -13,17 +13,6 @@ o React
 o Vite
 o CSS for styling (or CSS-in-JS libraries like styled-components if preferred)
 * Data Storage: Local storage to track user progress
-Installation
-To get started with the project, follow these steps:
-1. Clone the repository:
-2. git clone https://github.com/your-username/flashcards-app.git
-3. cd flashcards-app
-4. Install dependencies:
-5. npm install
-6. Run the development server:
-7. npm run dev
-8. Open http://localhost:3000 in your browser to see the app in action.
-Features
 Flashcards
 * Display Spanish words with the ability to flip the card to reveal the English translation.
 * Track whether the user got the card right or wrong with feedback buttons ("Correct" and "Incorrect").
@@ -46,5 +35,6 @@ If you would like to contribute to this project, please follow these steps:
 3. Commit your changes (git commit -am 'Add new feature').
 4. Push to the branch (git push origin feature-name).
 5. Create a new Pull Request.
+
 
 
